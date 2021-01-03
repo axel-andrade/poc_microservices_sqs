@@ -1,0 +1,15 @@
+.idea/
+.vscode/
+dist/
+build/
+node_modules/
+coverage
+new-env-vars
+.env
+config
+ormconfig.json
+yarn.lock
+yarn-error.log
+*.DS_Store
+argo-artifact.json
+yarn.lock
